@@ -29,4 +29,4 @@ retention patterns, sales trends, and revenue contribution across customer segme
 - Customer purchasing behavior varied across time periods and sales trends.
 
 ## Dashboard Preview
-![Dashboard Preview](Screenshot 2026-05-18 181437.png)
+![Dashboard Preview](dashboard_preview.png)
