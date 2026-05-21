@@ -1,3 +1,6 @@
+## Dashboard Preview
+![customer_intelligence_dashboard](customer_intelligence_dashboard.png)
+
 # customer-intelligence-dashboard
 Customer Intelligence dashboard built using SQL and Power BI to analyze customer behavior,
 retention patterns, sales trends, and revenue contribution across customer segments.
@@ -28,5 +31,4 @@ retention patterns, sales trends, and revenue contribution across customer segme
 - A noticeable percentage of customers showed inactivity patterns, indicating retention opportunities.
 - Customer purchasing behavior varied across time periods and sales trends.
 
-## Dashboard Preview
-![customer_intelligence_dashboard](customer_intelligence_dashboard.png)
+
